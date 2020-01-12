@@ -8,7 +8,7 @@ class Logv < Formula
   bottle :unneeded
 
   def install
-    bin.install "runa"
+    bin.install "logv"
   end
 
   test do
