@@ -1,4 +1,4 @@
-class LogV < Formula
+class Logv < Formula
   desc "Local stuctured log viewer"
   homepage "https://logv.app"
   version "0.0.1"
